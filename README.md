@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebsa-hub
 - 👀 I’m interested in nature, books, photography, music and stars...
-- 🌱 I’m currently learning Blender, Photoshop, C++, JAVA and WEB developer.
+- 🌱 I’m currently learning Blender, Photoshop, C++, Javascript and WEB developer.
 - 💞️ I’m looking to collaborate on robotic and automation projects.
 - 📫 How to reach me: calebs.ferreira@gmail.com
 
